@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="ioagent.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1003" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="vstring.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="447" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2308" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="xbkmeans.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="389" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="vstring.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16890" topLine="788" />
+		</Cursor>
+		<Folding>
+			<Collapse line="20" />
+			<Collapse line="36" />
+			<Collapse line="58" />
+			<Collapse line="73" />
+		</Folding>
+	</File>
+	<File name="hardwaresetup.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2479" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="ioagent.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="29522" topLine="63" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="40" />
+			<Collapse line="66" />
+		</Folding>
+	</File>
+	<File name="kmeans.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9402" topLine="374" />
+		</Cursor>
+	</File>
+	<File name="xbkmeans.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9834" topLine="430" />
+		</Cursor>
+	</File>
+	<File name="ksums.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21859" topLine="614" />
+		</Cursor>
+		<Folding>
+			<Collapse line="42" />
+			<Collapse line="101" />
+			<Collapse line="126" />
+			<Collapse line="143" />
+			<Collapse line="374" />
+			<Collapse line="447" />
+			<Collapse line="488" />
+		</Folding>
+	</File>
+	<File name="abstractkmeans.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1284" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="print2scrn.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="502" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="gksums.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4484" topLine="82" />
+		</Cursor>
+		<Folding>
+			<Collapse line="45" />
+			<Collapse line="115" />
+		</Folding>
+	</File>
+	<File name="xbksums.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="209" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="scriptparser.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5708" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+		</Folding>
+	</File>
+	<File name="xbksums.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12650" topLine="294" />
+		</Cursor>
+		<Folding>
+			<Collapse line="108" />
+			<Collapse line="273" />
+		</Folding>
+	</File>
+	<File name="pqmath.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5171" topLine="61" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="107" />
+		</Folding>
+	</File>
+	<File name="dataconvert.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12502" topLine="493" />
+		</Cursor>
+		<Folding>
+			<Collapse line="417" />
+		</Folding>
+	</File>
+	<File name="rbkmeans.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17356" topLine="77" />
+		</Cursor>
+		<Folding>
+			<Collapse line="44" />
+			<Collapse line="107" />
+			<Collapse line="139" />
+			<Collapse line="184" />
+			<Collapse line="230" />
+			<Collapse line="244" />
+			<Collapse line="254" />
+			<Collapse line="267" />
+			<Collapse line="417" />
+			<Collapse line="638" />
+			<Collapse line="648" />
+			<Collapse line="674" />
+			<Collapse line="696" />
+			<Collapse line="780" />
+			<Collapse line="790" />
+			<Collapse line="859" />
+			<Collapse line="897" />
+			<Collapse line="935" />
+			<Collapse line="952" />
+			<Collapse line="992" />
+		</Folding>
+	</File>
+	<File name="timer.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3540" topLine="27" />
+		</Cursor>
+		<Folding>
+			<Collapse line="22" />
+		</Folding>
+	</File>
+	<File name="xtksums.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="132" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="101" />
+			<Collapse line="193" />
+			<Collapse line="222" />
+			<Collapse line="239" />
+			<Collapse line="283" />
+			<Collapse line="319" />
+			<Collapse line="358" />
+			<Collapse line="457" />
+			<Collapse line="502" />
+			<Collapse line="536" />
+			<Collapse line="550" />
+			<Collapse line="563" />
+			<Collapse line="582" />
+			<Collapse line="603" />
+			<Collapse line="730" />
+			<Collapse line="871" />
+			<Collapse line="893" />
+			<Collapse line="910" />
+		</Folding>
+	</File>
+	<File name="randseed.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="132" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="xtkmeans.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15171" topLine="601" />
+		</Cursor>
+	</File>
+	<File name="cleaner.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="710" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="xtkmeans.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2037" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="seqkmeans.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15571" topLine="648" />
+		</Cursor>
+	</File>
+	<File name="evaluator.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3878" topLine="163" />
+		</Cursor>
+	</File>
+	<File name="dataconvert.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cleaner.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3511" topLine="109" />
+		</Cursor>
+	</File>
+	<File name="timer.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="196" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="lvectquant.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="373" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="hartigan.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1401" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="pqmath.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1185" topLine="38" />
+		</Cursor>
+	</File>
+	<File name="lvectquant.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2201" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="ksums.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="746" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="xtksums.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="334" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="print2scrn.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1538" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="minikmeans.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="192" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="kmeans.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="494" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="seqkmeans.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="164" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="minikmeans.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2243" topLine="91" />
+		</Cursor>
+	</File>
+	<File name="missionagent.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="186" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="nnitem.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="368" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="randseed.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="81" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="abstractkmeans.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="597" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="hartigan.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9798" topLine="388" />
+		</Cursor>
+	</File>
+	<File name="gksums.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="80" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="rbkmeans.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1242" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="missionagent.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2805" topLine="109" />
+		</Cursor>
+		<Folding>
+			<Collapse line="115" />
+		</Folding>
+	</File>
+	<File name="evaluator.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="211" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
