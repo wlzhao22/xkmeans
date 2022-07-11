@@ -20,7 +20,8 @@ The performance evaluation and the details of our proposals of k-means variants,
 
 
 
-# Contributors (#### ranked by the contributed number of code lines)
+# Contributors 
+###### ranked by the contributed number of code lines
 ### Wan-Lei Zhao (2010 - )
 ### Cheng-Hao Deng (2015 - 2017)
 ### Run-Qing Chen (2018 - 2019)
