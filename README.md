@@ -19,8 +19,10 @@ The performance evaluation and the details of our proposals of k-means variants,
 #### The bisecting version of above k-means variants have been also integrated.
 
 # Compile and Install
-#### this project is implemented with C++. It can be compiled smoothly under Ubuntu with g++ 8.0 or later. Go to under the directory, and run
+#### This project is implemented with C++. It can be compiled smoothly under Ubuntu (MacOS) with g++ 8.0 or later. Go to under the directory, and run
 ### <b> make release </b>
+
+#### In Windows, it can be smoothly compiled with MingW.
 
 # Contributors 
 ###### Ranked by the contributed number of code lines
