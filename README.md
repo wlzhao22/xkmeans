@@ -23,15 +23,15 @@ The performance evaluation and the details of our proposals of k-means variants,
 ### <b> make release </b>
 
 # Contributors 
-###### ranked by the contributed number of code lines
-#### Wan-Lei Zhao (2010 - )
-#### Cheng-Hao Deng (2015 - 2017)
-#### Run-Qing Chen (2018 - 2019)
-#### Hui Ye (2018 - 2019)
+###### Ranked by the contributed number of code lines
+##### Wan-Lei Zhao (2010 - )
+##### Cheng-Hao Deng (2015 - 2017)
+##### Run-Qing Chen (2018 - 2019)
+##### Hui Ye (2018 - 2019)
 
 Great thanks to Cheng-Hao Deng, Run-Qing Chen, and Hui Ye!!! This project would not be in its current shape without any of you.
 
 # History
-The earliest codes of this project could be traced back to 2010, right after Wan-Lei Zhao received his Ph.D in City University of Hong Kong. As he was a little bit free. He tried to re-implement RB k-means (proposed Ying Zhao and George Karypis from UMD), which is very efficient to build visual vocabulary. At that time, SIFT feature was widely used for image search tasks. It is necessary to call k-means to build visual word vocabulary based on SIFT feature. RB k-means with no doubt is the most efficient one. So I re-implemented RB k-means at that time and the traditional k-means as well.
+The earliest codes of this project could be traced back to 2010, right after Wan-Lei Zhao received his Ph.D in City University of Hong Kong. He was a little bit free at that time. He tried to re-implement RB k-means (proposed Ying Zhao and George Karypis from UMD), which is very efficient to build visual vocabulary. At that time, SIFT feature was widely used for image search tasks. It is necessary to call k-means to build visual word vocabulary based on SIFT feature. RB k-means with no doubt is the best option for its high efficiency. So I re-implemented RB k-means at that time and the traditional k-means as well.
 
 Wan-Lei Zhao joined with Xiamen University in Sep. 2014. Wan-Lei Zhao had my first gradudate student Cheng-Hao Deng in 2015. At that time, he wanted to find out an efficient way to build the hyerlinks between images. Cheng-Hao Deng made a breif survey, and discussed with Wan-Lei Zhao "whether it would be efficient if we use clustering approach". Then Wan-Lei Zhao went back to sort out the codes, and working on it together with Cheng-Hao Deng. Then this project was developped since then.
