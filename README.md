@@ -18,7 +18,10 @@ The performance evaluation and the details of our proposals of k-means variants,
 ### sequential k-sums (our proposal, see paper [2])
 ### The bisecting version of above k-means variants have been also integrated.
 
-
+# Compile and Install
+#### this project is implemented with C++. It can be compiled smoothly under Ubuntu with g++ 8.0 or later
+#### go to under the directory, and run
+### make release
 
 # Contributors 
 ###### ranked by the contributed number of code lines
