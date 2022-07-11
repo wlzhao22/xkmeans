@@ -8,15 +8,15 @@ The performance evaluation and the details of our proposals of k-means variants,
 
 
 # The k-means variants that are inluded in this project are as follows.
-#### k-means
-#### k-means++
-#### mini-Batch
-#### hartigan method
-#### k-means^# (our propoal, see paper [1])
-#### graph-based k-means (our proposal, see paper [3])
-#### sequential k-means
-#### sequential k-sums (our proposal, see paper [2])
-#### The bisecting version of above k-means variants have been also integrated.
+##### k-means
+##### k-means++
+##### mini-Batch
+##### hartigan method
+##### k-means^# (our propoal, see paper [1])
+##### graph-based k-means (our proposal, see paper [3])
+##### sequential k-means
+##### sequential k-sums (our proposal, see paper [2])
+##### The bisecting version of above k-means variants have been also integrated.
 
 # Compile and Install
 #### This project is implemented with C++. It can be compiled smoothly under Ubuntu (MacOS) with g++ 8.0 or later. Go to under the directory, and run
@@ -26,7 +26,7 @@ The performance evaluation and the details of our proposals of k-means variants,
 
 # Contributors 
 ###### Ranked by the contributed number of code lines
-##### Wan-Lei Zhao (2010 - )
+##### Wan-Lei Zhao (2010 - now)
 ##### Cheng-Hao Deng (2015 - 2017)
 ##### Run-Qing Chen (2018 - 2019)
 ##### Hui Ye (2018 - 2019)
