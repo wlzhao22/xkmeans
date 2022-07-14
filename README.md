@@ -7,7 +7,7 @@ The performance evaluation and the details of our proposals of k-means variants,
 ###### [3] Cheng-Hao Deng, Wan-Lei Zhao: Fast k-Means Based on k-NN Graph, ICDE 2018.
 
 
-# The k-means variants that are inluded in this project are as follows.
+# The k-means variants
 ##### k-means
 ##### k-means++
 ##### mini-Batch
