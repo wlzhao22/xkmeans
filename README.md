@@ -34,7 +34,7 @@ The performance evaluation and the details of our proposals of k-means variants,
 ##### Run-Qing Chen (2018 - 2019)
 ##### Hui Ye (2018 - 2019)
 
-Great thanks to Cheng-Hao Deng, Run-Qing Chen, and Hui Ye!!! This project would not be in its current shape without any of you.
+Great thanks to my students Mr. Cheng-Hao Deng, Mr. Run-Qing Chen, and Miss Hui Ye!!! This project would not be in its current shape without any of you.
 
 # History
 The earliest codes of this project could be traced back to 2010, right after Wan-Lei Zhao received his Ph.D in City University of Hong Kong. He was a little bit free at that time. He tried to re-implement RB k-means (proposed Ying Zhao and George Karypis from UMD), which is very efficient to build visual vocabulary. At that time, SIFT feature was widely used for image search tasks. It is necessary to call k-means to build visual word vocabulary based on SIFT feature. RB k-means with no doubt is the best option for its high efficiency. So I re-implemented RB k-means at that time and the traditional k-means as well.
