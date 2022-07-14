@@ -23,7 +23,6 @@ The performance evaluation and the details of our proposals of k-means variants,
 
 # Compile and Install
 #### This project is implemented with C++. It can be compiled smoothly under Ubuntu (MacOS) with g++ 8.0 or later. Go to under the directory, and run
-## Building
 
 ```shell
 $ cd xkmeans
