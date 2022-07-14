@@ -14,9 +14,12 @@ The performance evaluation and the details of our proposals of k-means variants,
 ##### hartigan method
 ##### k-means^# (our propoal, see paper [1])
 ##### graph-based k-means (our proposal, see paper [3])
+##### Repeated bisecting k-means (from Ying Zhao and Geoge Karypis [4])
 ##### sequential k-means
 ##### sequential k-sums (our proposal, see paper [2])
 ##### The bisecting version of above k-means variants have been also integrated.
+
+###### [4] Ying Zhao, Geoge Karypis: Criterion functions for document clustering: Experiments and analysis, 2001.
 
 # Compile and Install
 #### This project is implemented with C++. It can be compiled smoothly under Ubuntu (MacOS) with g++ 8.0 or later. Go to under the directory, and run
@@ -24,7 +27,7 @@ The performance evaluation and the details of our proposals of k-means variants,
 
 #### In Windows, it can be smoothly compiled with MingW.
 
-# Contributors 
+# Authors
 ###### Ranked by the contributed number of code lines
 ##### Wan-Lei Zhao (2010 - now)
 ##### Cheng-Hao Deng (2015 - 2017)
