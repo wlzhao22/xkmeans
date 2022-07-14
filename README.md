@@ -1,5 +1,5 @@
 # xkmeans
-This is a pure C++ implementation about a dozens of k-means variants and the original k-means.
+This is a pure C++ implementation about the traditional k-means and a dozens of its variants.
 
 The performance evaluation and the details of our proposals of k-means variants, such as k-means#, k-sums, and sequential-k-sums can be found from our papers.
 ###### [1] Wan-Lei Zhao, Cheng-Hao Deng, Chong-Wah Ngo: k-means: a revisit, Neurocomputing, 2018.
