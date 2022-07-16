@@ -8,16 +8,16 @@ The performance evaluation and the details of our proposals of k-means variants,
 
 
 # The k-means variants
-##### k-means
-##### k-means++
-##### mini-Batch
-##### hartigan method
-##### k-means^# (our propoal, see paper [1])
-##### graph-based k-means (our proposal, see paper [3])
-##### Repeated bisecting k-means (from Ying Zhao and Geoge Karypis [4])
-##### sequential k-means
-##### sequential k-sums (our proposal, see paper [2])
-##### The bisecting version of above k-means variants have been also integrated.
+###### 1. k-means
+###### 2. k-means++
+###### 3. mini-Batch
+###### 4. hartigan method
+###### 5. k-means^# (our propoal, see paper [1])
+###### 6. graph-based k-means (our proposal, see paper [3])
+###### 7. Repeated bisecting k-means (from Ying Zhao and Geoge Karypis [4])
+###### 8. sequential k-means
+###### 9. sequential k-sums (our proposal, see paper [2])
+###### 10. The bisecting version of above k-means variants have been also integrated.
 
 ###### [4] Ying Zhao, Geoge Karypis: Criterion functions for document clustering: Experiments and analysis, 2001.
 
