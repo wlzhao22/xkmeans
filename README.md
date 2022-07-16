@@ -26,6 +26,9 @@ The performance evaluation and the details of our proposals of k-means variants,
 
 ```shell
 $ cd xkmeans
+$ mkdir obj/
+$ mkdir obj/Release
+$ mkdir obj/Debug
 $ make release
 ```
 
