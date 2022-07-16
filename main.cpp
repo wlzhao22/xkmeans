@@ -84,8 +84,8 @@ void test()
 int main(int argc, const char *argv[])
 {
     ///srand(time(NULL));
-    test();
-    exit(0);
+    // test();
+    // exit(0);
 
     if(argc < 9)
     {
