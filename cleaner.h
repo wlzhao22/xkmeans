@@ -54,7 +54,7 @@ public:
 
     static void clearkNNGraph(vector<vector<MiniNN> > &knnGraph);
     static void clearNbs(vector<NbHood> &nbGraph);
-    static void clearDs(vector<vector<double>> &Ds);
+    static void clearDs(vector<vector<double> > &Ds);
 };
 
 #endif
